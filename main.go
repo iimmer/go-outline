@@ -11,7 +11,7 @@ import (
 	"go/token"
 	"os"
 
-	"golang.org/x/tools/go/buildutil"
+	"golang.google.cn/x/tools/go/buildutil"
 )
 
 type Declaration struct {
